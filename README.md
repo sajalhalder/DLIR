@@ -16,7 +16,9 @@ In this research work, we aim to answer the following research questions.
     
       (iv) Why does greedy policy-based itinerary construction perform better than the Monte Carlo Tree Search (MCTS) based itinerary construction?
      
- # In this DLIR model implemenation, we have used transformer and GCN that have been implemented in python programing language. We use tensorflow, keras and attention machanism.
+# Implemtation Details
+ 
+In this DLIR model implemenation, we have used transformer and GCN that have been implemented in python programing language. We use tensorflow, keras and attention machanism.
 
 Required Packages:
 

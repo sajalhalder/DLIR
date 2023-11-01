@@ -4,7 +4,7 @@ In this paper, we propose a deep learning model that addresses itinerary recomme
 
 To use this code in your research work please cite the following paper.
 
-Sajal Halder, Kwan Hui Lim, Jeﬀrey Chan, and Xiuzhen Zhang. Deep Learning of Dynamic POI Generation and Optimisation for Itinerary Recommendation. Submitted to Information Processing & Management, 2022. 
+Sajal Halder, Kwan Hui Lim, Jeﬀrey Chan, and Xiuzhen Zhang. Deep Learning of Dynamic POI Generation and Optimisation for Itinerary Recommendation. Submitted to ACM Transactions on Recommender Systems, 2023. 
 
 In this research work, we aim to answer the following research questions.
 
